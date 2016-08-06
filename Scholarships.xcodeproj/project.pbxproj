@@ -163,9 +163,9 @@
 		0482F3941D55707400A99B71 /* General */ = {
 			isa = PBXGroup;
 			children = (
+				0482F3951D55708400A99B71 /* AppDelegate.swift */,
 				0482F3991D5570B200A99B71 /* Main.storyboard */,
 				0482F3971D55709900A99B71 /* Info.plist */,
-				0482F3951D55708400A99B71 /* AppDelegate.swift */,
 			);
 			name = General;
 			sourceTree = "<group>";

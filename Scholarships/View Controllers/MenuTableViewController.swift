@@ -34,6 +34,8 @@ class MenuTableViewController: UITableViewController {
         }
     }
     
+    //settin up share link content
+    
     func setUpShareLinkContent() {
         
         content = FBSDKShareLinkContent()
