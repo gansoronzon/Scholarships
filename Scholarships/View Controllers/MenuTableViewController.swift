@@ -34,7 +34,7 @@ class MenuTableViewController: UITableViewController {
         }
     }
     
-    //settin up share link content
+    //settin up share link
     
     func setUpShareLinkContent() {
         
